@@ -11,6 +11,7 @@ function updateObjectWithKeyAndValue(obj, key, val){
   return newObj 
 }
 
+<<<<<<< HEAD
 function destructivelyUpdateObjectWithKeyAndValue(obj, key, val){
   
    obj[key] = val;
@@ -34,3 +35,5 @@ function destructivelyDeleteFromObjectByKey(object, key){
   
   return object
 }
+=======
+>>>>>>> 62765a20e62d07ea2c533fc669dba775a581c2d9
